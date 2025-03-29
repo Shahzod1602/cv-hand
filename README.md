@@ -1,1 +1,2 @@
-# cv-hand
+CV hand Gesture. 
+connect to arduino
